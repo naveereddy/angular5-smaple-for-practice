@@ -1,0 +1,19 @@
+.card {
+    margin-top: 20px;
+}
+
+.card-header {
+    padding-left: 10px;
+}
+
+.card-block {
+    padding-left: 10px;
+}
+
+label {
+    margin-top: 10px;
+}
+
+input[type="submit"] {
+    margin-bottom: 15px;
+}
